@@ -1,6 +1,15 @@
 {
   "transactions": [
     {
+      "entityType": "settings",
+      "settings": {
+        "rootTitle": "Sales Hot Line",
+        "prefersLargeTitles": true,
+        "backBarButtonItemTitleShouldBePreviousPushControllersTitle": true,
+        "defaultBackBarbuttonItemTitle": null
+      }
+    },
+    {
       "entityType": "itemCollection",
       "collections": [
         {
