@@ -4,44 +4,6 @@
       "entityType": "itemCollection",
       "collections": [
         {
-          "title": "Contacts",
-          "collectionId": 0,
-          "categoryId": "Gifts",
-          "layoutType": 0,
-          "menu": "main",
-          "items": [
-            {
-              "title": "Jonny Appleseed",
-              "subtitle": "iOS Engineer",
-              "symbol": "person.crop.square.fill.and.at.rectangle",
-              "tintColor": "blue",
-              "itemCategoryId": "Apple",
-              "collectionId": 0
-            },
-            {
-              "title": "Springboard Group",
-              "subtitle": "iOS Engineers",
-              "symbol": "applelogo",
-              "tintColor": "indigo",
-              "itemCategoryId": "Apple",
-              "collectionId": 0
-            },
-            {
-              "title": "Make it special",
-              "subtitle": "Gifts",
-              "symbol": "app.gift.fill",
-              "tintColor": "pink",
-              "itemCategoryId": "AwesomeGift",
-              "collectionId": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "entityType": "itemCollection",
-      "collections": [
-        {
           "title": "Gifts and Things",
           "collectionId": 1,
           "categoryId": "AwesomeGift",
