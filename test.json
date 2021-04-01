@@ -1,7 +1,7 @@
 {
-  "Transactions": [
+  "transactions": [
     {
-      "EntityType": "ItemCollection",
+      "entityType": "itemCollection",
       "collections": [
         {
           "title": "Contacts",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "EntityType": "ItemCollection",
+      "entityType": "itemCollection",
       "collections": [
         {
           "title": "Gifts and Things",
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "EntityType": "ItemCollection",
+      "entityType": "itemCollection",
       "collections": [
         {
           "title": "Gifts and Things",
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "EntityType": "ItemCollection",
+      "entityType": "itemCollection",
       "collections": [
         {
           "title": "Gifts and Things",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "EntityType": "ItemCollection",
+      "entityType": "itemCollection",
       "collections": [
         {
           "title": "Dice Collection",
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "EntityType": "ItemCollection",
+      "entityType": "itemCollection",
       "collections": [
         {
           "title": "Dice Collection",
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "EntityType": "ItemCollection",
+      "entityType": "itemCollection",
       "collections": [
         {
           "title": "Collection Title",
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "EntityType": "ItemCollection",
+      "entityType": "itemCollection",
       "collections": [
         {
           "title": "Collection Title",
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "EntityType": "ItemCollection",
+      "entityType": "itemCollection",
       "collections": [
         {
           "title": "Maths Collection",
@@ -383,7 +383,7 @@
       ]
     },
     {
-      "EntityType": "ItemCollection",
+      "entityType": "itemCollection",
       "collections": [
         {
           "title": "Collection Title 3",
