@@ -3,7 +3,7 @@
     {
       "entityType": "settings",
       "settings": {
-        "rootTitle": "Sales Hot Line",
+        "rootTitle": "Hot Line",
         "prefersLargeTitles": true,
         "backBarButtonItemTitleShouldBePreviousPushControllersTitle": true,
         "defaultBackBarbuttonItemTitle": null
