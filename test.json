@@ -3,10 +3,26 @@
     {
       "entityType": "settings",
       "settings": {
-        "rootTitle": "Hot Line",
-        "prefersLargeTitles": true,
-        "backBarButtonItemTitleShouldBePreviousPushControllersTitle": true,
-        "defaultBackBarbuttonItemTitle": null
+        "apiCheckInTimeInterval": 43200,
+        "biometricLocalAuthenticationTimeInterval": 3600,
+        "navigationControllerSettings": {
+          "rootTitle": "Sales Hot Line",
+          "prefersLargeTitles": true,
+          "backBarButtonItemTitleShouldBePreviousPushControllersTitle": true,
+          "defaultBackBarbuttonItemTitle": null
+        },
+        "itemActionLocalization": {
+          "actionButtonTitle": "Perform Action",
+          "cancelButtonTitle": "Cancel"
+        },
+        "localizationTitles": {
+          "signingIn": "Signing In",
+          "signingOut": "Signing Out",
+          "importing": "Importing Data",
+          "loading": "Loading",
+          "signOut": "Sign Out",
+          "signIn": "Sign In"
+        }
       }
     },
     {
